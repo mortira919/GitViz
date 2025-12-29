@@ -9,11 +9,6 @@
 <img src="https://img.shields.io/badge/Tailwind-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 <img src="https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 
-<br />
-<br />
-
-<img src="https://github.com/user-attachments/assets/preview.png" alt="GitViz Preview" width="800" />
-
 </div>
 
 ---
